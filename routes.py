@@ -29,6 +29,7 @@ def transcribe():
     chunks = split_audio(audio_path, Config.CHUNK_LENGTH_MS, Config.UPLOAD_FOLDER)
     transcription = " ".join([transcribe_audio_with_whisper(chunk) for chunk in chunks])
     clear_upload_folder(Config.UPLOAD_FOLDER)
+    print(transcription)
     return jsonify({"transcription": transcription})
 
 @routes.route('/generate-notes', methods=['POST'])
