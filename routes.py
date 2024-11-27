@@ -52,6 +52,7 @@ def process_url():
     transcription = " ".join([transcribe_audio_with_whisper(chunk) for chunk in chunks])
     notes = generate_notes(transcription)
     clear_upload_folder(Config.UPLOAD_FOLDER)
+    print(transcription)
     return jsonify({"notes": notes, "transcription": transcription})
 
 @socketio.on('connect', namespace='/audio-stream')
