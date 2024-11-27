@@ -1,0 +1,6 @@
+Flask
+Flask-SocketIO
+pydub
+yt-dlp
+openai==0.28
+requests
