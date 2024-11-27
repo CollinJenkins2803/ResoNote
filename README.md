@@ -1,4 +1,4 @@
-# Notes
+# ResoNotes
 
 Upload audio or video files and create comprehensive note guides!
 ## Key Features
