@@ -390,7 +390,7 @@ WebSocket connection is used for real-time audio streaming:
 
 ### **Common Issues**
 1. **404 Not Found**:
-   - Ensure the server is running (`python -m ResoNote).
+   - Ensure the server is running (`python -m ResoNote`).
    - Verify the correct endpoint is being accessed.
 
 2. **WebSocket Connection Issues**:
