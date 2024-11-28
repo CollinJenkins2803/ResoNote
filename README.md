@@ -255,13 +255,13 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### **5. Configure Environment Variables (Optional, Mac & Linux)**
+### **4. Configure Environment Variables (Optional, Mac & Linux)**
 Create a `.env` file in the root directory and add:
 ```
 OPENAI_API_KEY=your_openai_api_key
 ```
 
-### **6. Start the Python Module**
+### **5. Start the Python Module**
 ```bash
 cd ..
 python -m ResoNote
