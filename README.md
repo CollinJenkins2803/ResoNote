@@ -408,6 +408,8 @@ WebSocket connection is used for real-time audio streaming:
 ## **Conclusion**
 This documentation provides a complete guide to setting up, running, and extending **ResoNote**. If you encounter any issues or need further assistance, feel free to reach out.
 
+---
+
 / **Collin P. Jenkins**  
 John Chambers College of Business and Economics  
 West Virginia University  
