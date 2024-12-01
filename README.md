@@ -227,7 +227,6 @@ Before setting up and running the application, ensure you have the following too
 Ensure the following are installed and configured before proceeding:
 - Python 3.9+ and pip
 - Git
-- Node.js and npm (optional)
 - FFmpeg
 - OpenAI API key
 - A virtual environment for project isolation
