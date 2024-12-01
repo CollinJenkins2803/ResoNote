@@ -1,6 +1,6 @@
-# ResoNotes
+# Documentation
 
-# **Resonate Ideas, Generate Notes Documentation**
+# **ResoNote ~ Resonate Ideas, Generate Notes**
 
 ## **Table of Contents**
 1. [Overview](#overview)
