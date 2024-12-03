@@ -269,7 +269,7 @@ python -m ResoNote
 ---
 ## **Project Structure**
 ```plaintext
-AudioToNotes/
+resonote/
 │
 ├── ResoNote/                # Main application package
 │   ├── __init__.py          # Flask app initialization
